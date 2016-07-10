@@ -1,0 +1,9 @@
+bin/
+obj/
+Debug/
+Release/
+*.suo
+*.sdf
+*.opensdf
+CSharpCaller/swig/
+SwigSample/SwigSample_wrap.cxx
