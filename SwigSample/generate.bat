@@ -1,3 +1,3 @@
 @echo off
-swig -csharp -c++ SwigSample.i
-move SwigSample*.cs ..\CSharpCaller\swig\
+swig -csharp -c++ -namespace Swig.SwigSample SwigSample.i
+move *.cs ..\CSharpCaller\swig\
